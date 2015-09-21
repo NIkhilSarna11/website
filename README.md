@@ -1,3 +1,3 @@
 # website
 this is html file
-here i m making a websit
+here i am making a website

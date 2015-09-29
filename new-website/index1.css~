@@ -1,0 +1,41 @@
+.titlebar {
+display: inline;
+border: 2px solid #cccccc;
+} 
+
+
+.col-md-4 {
+width: 24%;
+float: left;
+margin: 0.5%;
+}
+.titlebar {
+border: 2px solid #cccccc;
+display: block;
+}
+.firstbox {
+
+border: 3px solid #cccccc;
+
+}
+.firstbox  a {
+
+font-size: 20px;
+font-weight: bold;
+font-family:arial,helvetica;
+}
+
+
+
+.secondbox {
+padding-left: 12px;
+border: 3px solid #cccccc;
+}
+.secondbox a {
+font-size: 20px;
+font-weight: bold;
+font-family:arial,helvetica;
+} 
+ .contents a {
+ color: #0099cc;
+} 
